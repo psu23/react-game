@@ -6,7 +6,7 @@ import Nav from "./components/Nav";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import Container from "./Container";
-import characters from "./characters.json";
+import characters from "./characters.json.js";
 import Message from "./components/Message";
 
 //This function chooses random spots for the character cards to be placed after each click, to challenge the player
