@@ -1,0 +1,21 @@
+.title {
+    align-items: center;
+    color: black;
+    display: flex;
+    grid-area: 2 / 2 / 3 / 3;
+    justify-content: center;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  @media (max-width: 650px) {
+    .title {
+      font-size: 0.8rem;
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .title {
+      font-size: 0.7rem;
+    }
+  }
