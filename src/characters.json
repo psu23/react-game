@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "image": "assets/images/image01.png",
+        "image": "./react-game/assets/images/image01.png",
         "clicked": false
     },
     {
         "id": 2,
-        "image": "assets/images/image02.png",
+        "image": "./react-game/assets/images/image02.png",
         "clicked": false
     },
     {
         "id": 3,
-        "image": "assets/images/image03.png",
+        "image": "./react-game/assets/images/image03.png",
         "clicked": false
     },
     {
         "id": 4,
-        "image": "assets/images/image04.png",
+        "image": "./react-game/assets/images/image04.png",
         "clicked": false
     },
     {
         "id": 5,
-        "image": "assets/images/image05.png",
+        "image": "./react-game/assets/images/image05.png",
         "clicked": false
     },
     {
         "id": 6,
-        "image": "assets/images/image06.png",
+        "image": "./react-game/assets/images/image06.png",
         "clicked": false
     },
     {
         "id": 7,
-        "image": "assets/images/image07.png",
+        "image": "./react-game/assets/images/image07.png",
         "clicked": false
     },
     {
         "id": 8,
-        "image": "assets/images/image08.png",
+        "image": "./react-game/assets/images/image08.png",
         "clicked": false
     },
     {
         "id": 9,
-        "image": "assets/images/image09.png",
+        "image": "./react-game/assets/images/image09.png",
         "clicked": false
     },
     {
         "id": 10,
-        "image": "assets/images/image10.png",
+        "image": "./react-game/assets/images/image10.png",
         "clicked": false
     },
     {
         "id": 11,
-        "image": "assets/images/image11.png",
+        "image": "./react-game/assets/images/image11.png",
         "clicked": false
     },
     {
         "id": 12,
-        "image": "assets/images/image12.png",
+        "image": "./react-game/assets/images/image12.png",
         "clicked": false
     }
 ]
