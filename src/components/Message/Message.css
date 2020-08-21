@@ -1,0 +1,31 @@
+#cor-inc {
+    background-color: #00ff01;
+    color: black;
+    display: flex;
+    font-size: 2rem;
+    grid-area: 4 / 1 / 5 / 4;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #cor-inc:empty {
+    display: none;
+  }
+  
+  @media (max-width: 900px) {
+    #cor-inc {
+      font-size: 1.5rem;
+    }
+  }
+  
+  @media (max-width: 500px) {
+    #cor-inc {
+      font-size: 1.25rem;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    #cor-inc {
+      font-size: 1rem;
+    }
+  }
