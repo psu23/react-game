@@ -1,8 +1,12 @@
 # Jujyfruit's Party (React.js Click Memory Game)
 
-Jujyfruit's Party is a game that uses ReactJS and several other technologies. The player is asked to click on a character's card. After the user clicks on a card, all cards will shuffle around. The user must click all 12 cards without clicking the same one twice, otherwise, the game will restart.
+Jujyfruit's Party is a game that uses ReactJS and several other technologies. The player is asked to click on a character's card. After the user clicks on a card, all cards will shuffle around. The user must click all 12 cards without clicking the same one twice, otherwise, the game will restart. Inspired by Gregg Araki's film 'Nowhere' (1997).
 
-# Deployed Site
+## App Demo
+
+![gif demo of Jujyfruit's Party](./assets/images/demo.gif)
+
+## Deployed Site
 
 https://psu23.github.io/react-game/
 
