@@ -4,7 +4,7 @@ Jujyfruit's Party is a game that uses ReactJS and several other technologies. Th
 
 ## App Demo
 
-![gif demo of Jujyfruit's Party](./build/assets/images/demo.gif)
+![gif demo of Jujyfruit's Party](./assets/images/demo.gif)
 
 ## Deployed Site
 
