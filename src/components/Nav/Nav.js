@@ -5,7 +5,7 @@ import "./Nav.css";
 const Nav = (props) => (
     <nav>
         <div className="flash brand animated">
-            <a href="/">{props.title}</a>
+            <a href="/react-game">{props.title}</a>
         </div>
 
         <div className="scores">
